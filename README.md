@@ -16,7 +16,7 @@ Air Canvas is an interactive drawing project using color detection and motion tr
 - **Eraser Mode     :** Some implementations include an eraser mode, allowing users to erase specific parts of their drawings.
 - **Gesture Controls:** Advanced versions might incorporate gesture controls for additional functionalities, such as undo, redo, or switching between drawing tools.
 
-- **ALGORITHMS:**
+ **ALGORITHMS:**
 
 1. **Color Detection:**
    - **Algorithm:** HSV Color Thresholding
@@ -54,7 +54,7 @@ These algorithms collectively enable the Air Canvas to track user movements, int
 
 **Applications:**
 
-- **Artistic Expression:** Air Canvas provides a unique and engaging platform for artistic expression, enabling users to create digital artwork in an intuitive and immersive manner.
-- **Education:** It can be used as an educational tool to teach basic principles of computer vision and image processing, making learning more interactive and fun.
-- **Entertainment:** Air Canvas can serve as an entertaining interactive installation in public spaces, events, or museums, captivating audiences and encouraging participation.
-- **Therapeutic Use:** The project could be adapted for therapeutic purposes, allowing users to engage in a creative and stress-relieving activity.
+- **Artistic Expression:** Air Canvas provides a unique and engaging platform for artistic expression, enabling users to create digital artwork in an intuitive and immersive                                  manner.
+- **Education:**           It can be used as an educational tool to teach basic principles of computer vision and image processing, making learning more interactive and fun.
+- **Entertainment:**       Air Canvas can serve as an entertaining interactive installation in public spaces, events, or museums, captivating audiences and encouraging                                        participation.
+- **Therapeutic Use:**     The project could be adapted for therapeutic purposes, allowing users to engage in a creative and stress-relieving activity.
